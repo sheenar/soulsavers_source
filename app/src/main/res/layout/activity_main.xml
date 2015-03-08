@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="@android:color/holo_purple"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/userName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:singleLine="true"
+        android:hint="Enter UserName"
+        android:background="@android:color/white"/>
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@id/register_button"
+        android:text="Register with GCM"
+        android:layout_below="@id/userName"
+        />
+
+   <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@id/register_button_2"
+        android:text="Register with XMPP Server (Click 2 times)"
+        android:layout_below="@id/register_button"
+        />
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@id/sos_button"
+        android:text="Save Our Souls !!!"
+        android:layout_below="@id/register_button_2"
+         />
+
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sos_button" type="id" />
+    <item name="register_button" type="id" />
+    <item name="notification_activity_text" type="id" />
+    <item name="register_button_2" type="id" />
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sheenar\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\AndroidApps\SoulSavers\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-773075a8a8b9227bb0b6732eff561c3de4cd4f53.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\SoulSavers\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\AndroidApps\SoulSavers\app\build\intermediates\pre-dexed\debug\classes-8569d84f1e6cee413dfafe471d303bb6136b7d44.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\SoulSavers\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="D:\AndroidApps\SoulSavers\app\build\intermediates\pre-dexed\debug\classes-640699c3e936b24ebc6d2267c2249fb776e180d6.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\SoulSavers\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\AndroidApps\SoulSavers\app\build\intermediates\pre-dexed\debug\classes-ca0b0d5354edcd10d94da10ea2092a4c98eb2b50.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\SoulSavers\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\AndroidApps\SoulSavers\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-aa202681f223a227db4e54ac17e91cdf2e76b5f9.jar" />
+    </item>
+
+</items>
